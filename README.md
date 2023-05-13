@@ -24,9 +24,9 @@ The `images_to_video.py` script creates a video from a sequence of images.
 
 ## Windows Batch Files
 
-For Windows users, there's a Launch.bat file for executing each program.
+For Windows users, there's a `Launch.bat` file for executing each program.
 
 ## Dependencies
 
 These scripts use the OpenCV library. Install it using pip:
-pip install opencv-python
+`pip install opencv-python`
